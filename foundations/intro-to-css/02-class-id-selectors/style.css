@@ -1,0 +1,24 @@
+.odd{
+    background-color: pink;
+    font-family: Verdena, "DejaVu Sans", sans-serif;
+
+}
+/* Verdena does not need "" or ' ' around it,
+   but "DejaVu Sans" does need quotes because it has a space in the name.
+*/
+#second{
+    color: blue;
+    font-size: 36px;
+}
+#third{
+    font-size: 24px;
+}
+#fourth{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+/* The class 'adjust-font-size' is not used in this solution,
+   but it can be used to set the font size for elements
+   that need a specific size, like 'Number 3' and 'Number 4'.
+*/
